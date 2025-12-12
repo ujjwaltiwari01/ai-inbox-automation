@@ -1,20 +1,40 @@
 
 <div align="center">
   
-  ![AI Inbox Agent](https://img.shields.io/badge/AI_Agent-Inbox_Manager-4285F4?style=for-the-badge&logo=google-gmail&logoColor=white)
-  ![n8n](https://img.shields.io/badge/Workflow-n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/Intelligence-GPT--4o-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/Powered_By-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+  <a href="https://github.com/ujjwaltiwari01/ai-inbox-automation">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bW54Y2d5eG52bnF6OG15eG52bnF6OG15eG52bnF6OG15eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3v3zB3fWn6q06Z5xO/giphy.gif" width="120" />
+  </a>
 
-  <h1 style="border-bottom: none;">📧 AI Inbox Management Agent</h1>
+  <br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=AI+Inbox+Manager;Automated+Email+Triage;GPT-4o+Powered+Intelligence;Recover+Your+Sanity" alt="Typing SVG" />
+
   <p style="font-size: 1.2em; color: #666;">
     <i>The "Executive Assistant" workflow that reads, sorts, and answers your emails 24/7.</i>
   </p>
 
+  <div id="badges">
+    <a href="https://n8n.io">
+      <img src="https://img.shields.io/badge/Workflow-n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge"/>
+    </a>
+    <a href="https://openai.com">
+      <img src="https://img.shields.io/badge/Intelligence-GPT--4o-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
+    </a>
+    <a href="https://gmail.com">
+      <img src="https://img.shields.io/badge/Integrated_With-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://python.langchain.com">
+      <img src="https://img.shields.io/badge/Powered_By-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge"/>
+    </a>
+  </div>
+
+  <br />
+
   <p align="center">
     <a href="#-the-workflow-visualized"><strong>See the Flow</strong></a> •
-    <a href="#-prompt-engineering-lab"><strong>See the Prompts</strong></a> •
-    <a href="#-setup-guide"><strong>Deploy Now</strong></a>
+    <a href="#-features"><strong>Key Features</strong></a> •
+    <a href="#-prompt-engineering-lab"><strong>Prompt Lab</strong></a> •
+    <a href="#-setup-guide"><strong>Deploy</strong></a>
   </p>
 
   ![Banner](https://img.shields.io/badge/Status-Operational-success?style=flat-square)
@@ -33,17 +53,57 @@ Every unread email is a micro-decision waiting to be made.
 * "Is this spam?"
 * "Do I need to pay this?"
 
-### 🛑 OLD WAY (Manual Pilot)
-| ❌ Chaos | ❌ Slow | ❌ Stressful |
-| :--- | :--- | :--- |
-| **Mental Load**: High. You read every subject line. | **Response Time**: Hours or Days. | **Missed Opportunities**: "Did I reply to that client?" |
-| **Organization**: "I'll tag it later." (You never do). | **Spam**: Clutters the view. | **Anxiety**: The number keeps going up. |
+<div align="center"> 
+  <table>
+    <thead>
+      <tr>
+        <th align="center">🛑 OLD WAY (Manual Pilot)</th>
+        <th align="center">✅ NEW WAY (AI Pilot)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          ❌ <b>Mental Load:</b> High. <br>
+          ❌ <b>Response:</b> Hours/Days. <br>
+          ❌ <b>Stress:</b> Constant.
+        </td>
+        <td>
+          🧠 <b>Mental Load:</b> Zero. <br>
+          ⚡ <b>Response:</b> Seconds. <br>
+          🧘 <b>State:</b> Zen.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### ✅ NEW WAY (AI Pilot)
-| 🧠 Clarity | ⚡ Instant | 🧘 Zen |
-| :--- | :--- | :--- |
-| **Mental Load**: Zero. AI reads for you. | **Response Time**: Seconds. | **Capture**: Important emails get drafted instantly. |
-| **Organization**: Auto-labeled before you see it. | **Noise**: Filtered out. | **Peace**: Only open the inbox to *review*, not *sort*. |
+---
+
+<h2 id="-features">✨ Key Features</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Contextual Understanding</h3>
+      <p>Doesn't just keyword match. It reads the <b>entire email body</b> to understand sentiment, intent, and urgency.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ Instant Classification</h3>
+      <p>Sorts emails into <b>Priority, Support, Finance, or Promo</b> within seconds of arrival.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>✍️ Human-Like Drafting</h3>
+      <p>Pre-writes replies in your tone. You just review and hit send. <b>Zero writing required.</b></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ Spam Shield</h3>
+      <p>Identifies sophisticated spam that bypasses Gmail's default filters.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +126,7 @@ graph TD
     Draft[✍️ Draft Reply]:::action
     Reply[↩️ Auto-Reply]:::action
     Summary[📝 Summary]:::action
-    Forward[� Forward Email]:::action
+    Forward[📨 Forward Email]:::action
 
     %% Flow
     Trigger -->|New Unread Email| Classifier
@@ -100,55 +160,68 @@ graph TD
 
 ---
 
-## � Repository Structure
-A clean look at what you are downloading.
+## 📂 Repository Structure
+A clean look at what resides in this repo.
+
 ```bash
-.
-├── 📄 README.md                 # You are here
-├── 📄 JUx2ZfNfD64 - 1.json      # The Master Workflow File (Import this!)
-└── 📂 assets
-    └── 🖼️ banner.png            # Visual assets
+ai-inbox-automation/
+├── README.md                 # 📖 You are reading this
+├── JUx2ZfNfD64 - 1.json      # 🧠 The Master Workflow (Import this!)
+└── assets/                   # 🖼️ Images & Icons
+    └── banner.gif            #    (Header Animation)
 ```
 
 ---
 
 ## 🧠 Prompt Engineering Lab
 This agent isn't just "calling GPT". It uses **Role-Based Prompting** to switch personas.
-Here are the *actual* system prompts used in the node logic.
 
+<div align="center">
+  
 <details>
 <summary><b>🕵️ The Classifier (The Brain)</b></summary>
-> "Please classify the text provided by the user into one of the following categories: {categories}, and use the provided formatting instructions below. Don't explain, and only output the json."
->
-> **Categories Defined:**
-> - `High Priority`: Urgent, key stakeholders, deadlines (ASAP, immediate).
-> - `Customer Support`: Service requests, feedback, tickets.
-> - `Promotions`: Marketing, newsletters, offers.
-> - `Finance/Billing`: Invoices, receipts, payments.
+<br>
+<blockquote>
+"Please classify the text provided by the user into one of the following categories: {categories}, and use the provided formatting instructions below. Don't explain, and only output the json."
+<br><br>
+<b>Categories Defined:</b>
+<ul>
+<li><code>High Priority</code>: Urgent, key stakeholders, deadlines.</li>
+<li><code>Customer Support</code>: Service requests, feedback.</li>
+<li><code>Promotions</code>: Marketing, newsletters.</li>
+<li><code>Finance/Billing</code>: Invoices, receipts.</li>
+</ul>
+</blockquote>
 </details>
 
 <details>
 <summary><b>👔 The Executive Assistant (High Priority)</b></summary>
-> "You are an executive assistant. Your job is to respond to incoming high priority inquiries as accurately as you can."
-> *(Generates a draft response for your review)*
+<br>
+<blockquote>
+"You are an executive assistant. Your job is to respond to incoming high priority inquiries as accurately as you can."
+<br><i>(Generates a draft response for your review)</i>
+</blockquote>
 </details>
 
 <details>
 <summary><b>🎧 The Support Rep (Customer Service)</b></summary>
-> "You are a customer service representative. Your job is to respond to incoming customer support inquiries as accurately as you can, and if it is an inquiry you cannot handle, please refer the user to the following email: customersupport@abccorp.com"
-> *(Sends an automatic reply immediately)*
+<br>
+<blockquote>
+"You are a customer service representative. Your job is to respond to incoming customer support inquiries as accurately as you can, and if it is an inquiry you cannot handle, please refer the user to the following email: customersupport@abccorp.com"
+<br><i>(Sends an automatic reply immediately)</i>
+</blockquote>
 </details>
 
 <details>
 <summary><b>💼 The Accountant (Finance)</b></summary>
-> "You are a finance/billing assistant. Your job is to summarize incoming emails relating to finance and billing and summarize them in a short and concise way."
-> *(Summarizes and forwards the email)*
+<br>
+<blockquote>
+"You are a finance/billing assistant. Your job is to summarize incoming emails relating to finance and billing and summarize them in a short and concise way."
+<br><i>(Summarizes and forwards the email)</i>
+</blockquote>
 </details>
 
-<details>
-<summary><b>📰 The Marketer (Promotions)</b></summary>
-> "You are in charge of promotions. Please evaluate the incoming promotional email and give us a quick summary and a recommendation."
-</details>
+</div>
 
 ---
 
@@ -175,59 +248,28 @@ The workflow has some **hardcoded values** you MUST change for it to work for **
 | **Gmail Trigger** | `Poll Time` | `Every Minute` (Adjust if needed) |
 | **Creating Email** | `System Prompt` | `customersupport@abccorp.com` |
 
-### 4. Create Labels 🏷️
-The workflow tries to apply these labels. Create them in Gmail to avoid errors:
-*   `High Priority`
-*   `Customer Support`
-*   `Promotion`
-*   `Finance/Billing`
-
 ---
 
-## 🛠️ Tech Stack
-| Component | Technology | Reasoning |
-| :--- | :--- | :--- |
-| **Orchestrator** | ![n8n](https://img.shields.io/badge/-n8n-FF6B6B?style=flat&logo=n8n&logoColor=white) | Visual, self-hosted, powerful logic handling. |
-| **LLM** | ![GPT-4o](https://img.shields.io/badge/-GPT--4o-10A37F?style=flat&logo=openai&logoColor=white) | Best-in-class reasoning for complex classification. |
-| **Mail** | ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white) | Universal email provider with robust API. |
-| **Logic** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) | Chaining LLM outputs to structure JSON data. |
-
-
----
-
-## 📚 Node-by-Node Explanation
-Understand every gear in the machine.
+##  Node-by-Node Explanation
 
 ### 1. Gmail Trigger (`Gmail Trigger`)
 *   **Role**: The Watchdog.
 *   **Settings**: Polls every 1 minute.
-*   **Filters**: Only checks for emails with the label `UNREAD` in the `INBOX`.
 *   **Why**: Ensures we only process new, unseen emails.
 
 ### 2. Text Classifier (`Text Classifier`)
 *   **Role**: The Router.
-*   **Type**: LangChain Text Classifier.
 *   **Logic**: Uses a specific schema to map email content to one of 4 keys.
-*   **Output**: A clean JSON string with the category.
 
-### 3. OpenAI Chat Model (`OpenAI Chat Model`)
+### 3. OpenAI Chat Model
 *   **Role**: The Brain.
 *   **Model**: `gpt-4o`.
 *   **Reasoning**: We need high intelligence to distinguish between a "Support Request" and a "Support Complaint" (Priority).
-*   **Cost**: Uses minimal tokens as it only outputs classification keys.
 
-### 4. The "Switch" Logic
-The workflow branches based on the classifier's output.
-*   **Branch 1 (Priority)**: Connects to `High Priority` node.
-*   **Branch 2 (Support)**: Connects to `Customer Support` node.
-*   **Branch 3 (Promo)**: Connects to `Promotion` node.
-*   **Branch 4 (Finance)**: Connects to `Finance/Billing` node.
-
-### 5. Action Nodes
+### 4. Action Nodes
 *   **Creating Draft (GPT)**: Generates a human-like response.
-*   **Draft (Gmail)**: Saves that response to your drafts folder. it does *not* send it (for safety).
-*   **Auto Reply (Gmail)**: Automatically replies to the thread. Useful for standard support acknowledgments.
-*   **Send to Finance Dept (Gmail)**: Forwards the email body to your accountant/CFO.
+*   **Draft (Gmail)**: Saves that response to your drafts folder.
+*   **Auto Reply (Gmail)**: Automatically replies to the thread.
 
 ---
 
@@ -235,21 +277,11 @@ The workflow branches based on the classifier's output.
 
 ### Q: Does this cost money to run?
 **A:** Yes.
-1.  **n8n**: Free if self-hosted, paid if using n8n Cloud.
-2.  **OpenAI**: You pay per 1k tokens. For normal personal inbox volume, this is usually **<$2 per month**.
-
-### Q: Why didn't it trigger on my test email?
-**A:** n8n polls every 60 seconds. Wait at least a minute. Also, ensure the email is **Unread** and in the **Primary Inbox** (not moving to Spam/Promotions by Google's own filters first).
-
-### Q: Can I use a local LLM like Llama3?
-**A:** Absoutely. Swap the `OpenAI Chat Model` node for an `Ollama` node.
-*   *Caveat*: Local models might be less accurate at nuance classification unless fine-tuned.
+1.  **n8n**: Free if self-hosted.
+2.  **OpenAI**: You pay per 1k tokens.
 
 ### Q: Is it safe to give n8n access to my Gmail?
-**A:** If you self-host n8n, **yes**. The data never leaves your server except to go to OpenAI for processing. If you use n8n Cloud, they are SOC2 compliant.
-
-### Q: How do I change the prompts?
-**A:** Open the `Creating Draft` or `Creating Email` nodes. You will see a "System Message". Edit that text to change the AI's persona (e.g., "You are a pirate" 🏴‍☠️).
+**A:** If you self-host n8n, **yes**. The data never leaves your server except to go to OpenAI for processing.
 
 ---
 
@@ -257,39 +289,23 @@ The workflow branches based on the classifier's output.
 Your email data is sensitive. Here is how this workflow handles it:
 
 1.  **Data Transmission**: Email bodies are sent to OpenAI API.
-    *   *Mitigation*: OpenAI does not use API data for training by default (check your settings).
 2.  **Storage**: n8n stores execution logs (inputs/outputs).
-    *   *Mitigation*: You can disable execution logging in n8n settings for higher privacy.
 3.  **Access Control**: The `Gmail Credential` has read/write access.
-    *   *Warning*: Never share your n8n credentials.
 
 ---
 
-## 🔮 Future Roadmap
-*   [ ] **Slack Integration**: Send "High Priority" alerts to a Slack channel.
-*   [ ] **Attachment Parsing**: Use OCR to read PDF invoices in the Finance branch.
-*   [ ] **Calendar Sync**: Detect meeting requests and auto-check availability.
-
----
-
-## 🤝 Contributing
-Got a better prompt? A smarter routing logic?
-1. Fork it.
-2. Branch it (`git checkout -b feature/SmartRouting`).
-3. Commit it (`git commit -m 'Added regex filtering'`).
-4. Push it.
-5. **Pull Request**.
-
----
-
+<br />
 <div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20AI-FF6B6B?style=for-the-badge" alt="Made with Love" />
+  <br />
+  
   <p><b>Built for the "30 Days of AI Agents" Challenge</b></p>
   <p>
     <a href="https://github.com/ujjwaltiwari01" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-@ujjwaltiwari01-181717?style=for-the-badge&logo=github">
+      <img src="https://img.shields.io/badge/GitHub-@ujjwaltiwari01-181717?style=open-graph&logo=github">
     </a>
     <a href="https://twitter.com" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=open-graph&logo=twitter&logoColor=white">
     </a>
   </p>
 </div>
